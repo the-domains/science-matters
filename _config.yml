@@ -6,9 +6,9 @@ color:
   saturation: 0.8196866537909955
   rhythmicContrast: 0.7259833144489676
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#292929'
+    - '#5B7876'
+    - '#8F9E8B'
+    - '#F2E6B6'
+    - '#412A22'
 name: Science Matters
