@@ -29,8 +29,8 @@ isBasedOnUrl: >-
 title: >-
   From Dark Gravity To Phantom Energy: What's Driving The Expansion Of The
   Universe?
-datePublished: '2016-06-22T00:02:48.762Z'
-dateModified: '2016-06-22T00:01:19.946Z'
+datePublished: '2016-06-22T00:02:48.855Z'
+dateModified: '2016-06-22T00:00:53.015Z'
 starred: false
 sourcePath: >-
   _posts/2016-06-22-from-dark-gravity-to-phantom-energy-whats-driving-the-expa.md
