@@ -27,8 +27,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.iflscience.com/physics/second-layer-of-information-in-dna/'
 title: There's A Second Layer Of Information In DNA
-datePublished: '2016-06-22T00:02:48.867Z'
-dateModified: '2016-06-22T00:00:13.193Z'
+datePublished: '2016-06-22T00:02:48.877Z'
+dateModified: '2016-06-21T23:59:59.963Z'
 starred: false
 sourcePath: _posts/2016-06-22-theres-a-second-layer-of-information-in-dna.md
 inFeed: true
